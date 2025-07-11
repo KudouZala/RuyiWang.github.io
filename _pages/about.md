@@ -11,10 +11,12 @@ redirect_from:
 
 > "Coding is poetry, debugging is war."
 
-A graduate student bravely saving the PEM water electrolysis system from the chaos of ion contamination.  
-Born and raised (academically) in Tongji University — both undergrad and master's in the School of Automotive Studies.  
-Currently under the supervision of Prof. Xuezhe Wei, at the **Electrochemical Digital Power Research Lab**.  
-Yes, it's as cool as it sounds — and yes, the code still breaks.
+A student bravely saving the **PEM water electrolysis system** from the chaos of ion contamination.
+
+Born and raised (academically) at **Tongji University**, where I completed both my undergraduate and master’s studies in the **School of Automotive Studies**.
+
+Currently working under the guidance of **Prof. Xuezhe Wei**, at the **Electrochemical Digital Power Research Lab**.
+
 
 ---
 
