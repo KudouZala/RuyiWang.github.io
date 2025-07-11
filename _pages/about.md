@@ -6,10 +6,34 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## 👋 Hello there! I'm KudouZala
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+> "代码如诗，调试如战场。"
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+一位正在调教机器人、拯救PEM电解水制氢于水深火热中的理工科研究生，  
+白天追逐离子污染的踪迹，晚上追着强化学习的 loss 不放。  
+偶尔写代码像在弹钢琴，偶尔写论文像在写遗书——不过我乐在其中 😇。
+
+### 🧠 研究方向
+- PEM 电解水制氢系统的故障诊断- 基于 Transformer 和 Diffusion 的离子中毒检测模型
+- 人形机器人运动模仿与强化学习（蹬腿、站不稳、爆炸……都是生活的一部分）
+
+### 🛠️ 技术栈
+- Python / PyTorch（不是在 debug，就是在 debug 的路上）
+- Isaac Gym / MuJoCo / ROS2（我不是在模拟，就是在调仿真的驱动）
+- 拟合函数，调结构，训模型，然后告诉你：这个锅是物理和化学的！
+
+### 🧪 正在忙
+- 把论文从“能看”写成“能发”
+- 把模型从“能跑”调成“能收敛”
+- 把机器人从“会躺”训练成“会走”
+
+### 📬 联系我
+- 研究合作、技术探讨、吐槽学术，都欢迎 issue 或 email！
+
+---
+
+_“愿你 debug 半小时，收敛一整天。”_
 
 A data-driven personal website
 ======
