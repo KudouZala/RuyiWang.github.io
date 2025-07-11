@@ -1,37 +1,52 @@
 ---
 permalink: /
-title: "王濡翼(RuyiWang) Academic Pages"
+title: "Ruyi Wang (王濡翼) Academic Pages"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-## 👋 Hello there! I'm RuyiWang
 
-> "代码如诗，调试如战场。"
+## 👋 Hello there! I'm Ruyi Wang
 
-一位正在拯救PEM电解水制氢于水深火热中的理工科研究生，  
+> "Coding is poetry, debugging is war."
 
+A graduate student bravely saving the PEM water electrolysis system from the chaos of ion contamination.  
+Born and raised (academically) in Tongji University — both undergrad and master's in the School of Automotive Studies.  
+Currently under the supervision of Prof. Xuezhe Wei, at the **Electrochemical Digital Power Research Lab**.  
+Yes, it's as cool as it sounds — and yes, the code still breaks.
 
-### 🧠 研究方向
-- PEM 电解水制氢系统的故障诊断- 离子中毒检测
-- 已发表论文:A review of portability of fault diagnosis methods from PEM fuel cells to PEM water electrolyzers
-  https://link.springer.com/article/10.1007/s42452-025-07318-1
-
-### 🛠️ 技术栈
-- Python / PyTorch（不是在 debug，就是在 debug 的路上）
-- 拟合函数，调结构，训模型，然后告诉你：这个锅是物理和化学的！
-
-### 🧪 正在忙
-- 把论文从“能看”写成“能发”
-- 把模型从“能跑”调成“能收敛”
-
-### 📬 联系我
-- 研究合作、技术探讨、吐槽学术，都欢迎 issue 或 email！
-- 2333059@tongji.edu.cn
-- QQ:975967579
-- WX:15149059192
 ---
 
-_“愿你 debug 半小时，收敛一整天。”_
+### 🧠 Research Interests
+- Fault diagnosis of PEM water electrolysis systems — especially **ion poisoning detection**
+- First-author paper published:  
+  **A review of portability of fault diagnosis methods from PEM fuel cells to PEM water electrolyzers**  
+  🔗 [Springer Link](https://link.springer.com/article/10.1007/s42452-025-07318-1)
+
+---
+
+### 🛠️ Tech Stack
+- Python / PyTorch (I'm either debugging or planning to debug)
+- Fitting functions, tuning architectures, training models...  
+  Only to conclude: "It’s not my fault — it’s physics and chemistry."
+
+---
+
+### 🧪 Currently Working On
+- Turning papers from "readable" to "publishable"
+- Making models go from "runs" to "actually converges"
+
+---
+
+### 📬 Contact Me
+Feel free to reach out for research collaboration, technical discussions, or academic rants:
+- 📧 2333059@tongji.edu.cn  
+- 💬 QQ: 975967579  
+- 📱 WeChat: 15149059192  
+
+---
+
+_“May your debugging take 30 minutes, and your convergence last all day.”_
+
 
