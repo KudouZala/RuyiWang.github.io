@@ -26,7 +26,7 @@ Currently conducting research under the mentorship of **Prof. Xuezhe Wei**, at t
 📄 **First-author Publication**  
 > **A Review of Portability of Fault Diagnosis Methods from PEM Fuel Cells to PEM Water Electrolyzers**
 <p align="center">
-  <img src="综述论文期刊封面.png" alt="Figure 1" width="30%">
+  <img src="综述论文期刊封面.png" alt="Figure 1" width="35%">
   <img src="综述论文截图.png" alt="Figure 2" width="45%" style="margin-right: 10px;">
   
 </p>
