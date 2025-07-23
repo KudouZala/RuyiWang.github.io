@@ -24,7 +24,12 @@ Currently conducting research under the mentorship of **Prof. Xuezhe Wei**, at t
 - Physics-informed and data-driven approaches for **impedance analysis** and **voltage prediction**
 
 📄 **First-author Publication**  
-> **A Review of Portability of Fault Diagnosis Methods from PEM Fuel Cells to PEM Water Electrolyzers**  
+> **A Review of Portability of Fault Diagnosis Methods from PEM Fuel Cells to PEM Water Electrolyzers**
+<p align="center">
+  <img src="综述论文截图.png" alt="Figure 2" width="45%">
+  <img src="综述论文截图.png" alt="Figure 1" width="45%" style="margin-right: 10px;">
+  
+</p>
 > 🔗 [Springer Link](https://link.springer.com/article/10.1007/s42452-025-07318-1)
 
 ---
