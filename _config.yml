@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "个人照片.png"
   name             : "Ruyi Wang 王濡翼"
   pronouns         : # example: "she/her"  
   bio              : "Because I think , I am"
   location         : "China"
   employer         : "Tongji University"
-  uri              : # URL
+  uri              : "https://kudouzala.github.io/RuyiWang.github.io/"
   email            : "2333059@tongji.edu.cn" 
 
   # Academic websites
