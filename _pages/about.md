@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ruyi Wang (王濡翼) Academic Pages"
+title: "Ruyi Wang (王濡翼) Personal Pages"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,48 +14,34 @@ A passionate researcher dedicated to rescuing the **PEM water electrolysis syste
 
 Academically born and raised at **Tongji University**, where I earned both my **Bachelor's** and **Master's** degrees in the **School of Automotive Studies**.
 
-Currently conducting research under the mentorship of **Prof. Xuezhe Wei**, at the **Electrochemical Digital Power Research Lab**, with a focus on intelligent diagnostics for electrochemical energy systems.
+Currently conducting research **AI4Science** under the mentorship of **Prof. Xuezhe Wei**, at the **Electrochemical Digital Power Research Lab**, with a focus on intelligent diagnostics for electrochemical energy systems.
 
 ---
 
-### 🧠 Research Interests
+### 🧠 Research
 - Intelligent fault diagnosis for **PEM water electrolysis systems**, with a special focus on **ion poisoning detection**
 - Cross-domain method transfer between **PEM fuel cells** and **electrolyzers**
 - Physics-informed and data-driven approaches for **impedance analysis** and **voltage prediction**
 
-📄 **First-author Publication**  
+**Publication**  
 > **A Review of Portability of Fault Diagnosis Methods from PEM Fuel Cells to PEM Water Electrolyzers**
-<p align="center">
-  <img src="/images/review_cover.png" alt="Figure 1" width="35%">
-  <img src="/images/review_preview.png" alt="Figure 2" width="45%" style="margin-right: 10px;">
-</p>
 > 🔗 [Springer Link](https://link.springer.com/article/10.1007/s42452-025-07318-1)
 
----
-
-### 🛠️ Technical Stack
-- **Languages & Frameworks**: Python / PyTorch / NumPy / Matplotlib  
-- **Core Competencies**:  
-  - Impedance spectrum modeling and parameter fitting  
-  - Transformer-based architectures for fault classification  
-  - Multi-task learning: ion type diagnosis + physical voltage prediction  
-
-> *“It’s not overfitting, it’s overthinking — by your model.”*
-
----
-
-### 🧪 Currently Working On
-- Upgrading papers from *"readable"* to *"publishable"*  
-- Turning models from *"runs without error"* to *"actually converges"*  
-- Exploring **diffusion models** and **domain adaptation** for electrochemical diagnostics
+**Project** > **Ion Detect** > 🔗 [Project Page](https://kudouzala.github.io/ion_detect_page/)  
 
 ---
 
 ### 📬 Contact Me
 I’m always open to collaboration, academic exchange, or just a good chat about your model's loss function:
-- 📧 **Email**: 2333059@tongji.edu.cn  
+- 📧 **Email**: 2333059@tongji.edu.cn ; 975967579@qq.com  
 - 💬 **QQ**: 975967579  
-- 📱 **WeChat**: 15149059192  
+- 📱 **WeChat**: 15149059192
+  
+**Personal Repo** > **GitHub Repository** > 🔗 [GitHub](https://github.com/KudouZala)  
+
+**Personal Homepage** > **Personal Website** > 🔗 [Homepage](https://kudouzala.github.io/RuyiWang.github.io/)
+
+**Experience** > **DC Intern at Porsche Engineering (2023)** 
 
 ---
 
