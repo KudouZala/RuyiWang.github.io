@@ -14,10 +14,10 @@ A passionate researcher dedicated to rescuing the **PEM water electrolysis syste
 
 Academically born and raised at **Tongji University**, where I earned both my **Bachelor's** and **Master's** degrees in the **School of Automotive Studies**.
 
-Currently conducting research **AI4Science** under the mentorship of 
-**Prof. Xuezhe Wei** ： https://auto.tongji.edu.cn/info/1177/6441.htm
-**Prof. Jiangong Zhu** ：https://auto.tongji.edu.cn/info/1180/7540.htm
-, at the **Electrochemical Digital Power Research Lab**, with a focus on intelligent diagnostics for electrochemical energy systems.
+Currently conducting research **AI4Science** under the mentorship of **Prof. Xuezhe Wei** and **Prof. Jiangong Zhu**
+>🔗 [Wei Page](https://auto.tongji.edu.cn/info/1177/6441.htm)  
+>🔗 [Zhu Page](https://auto.tongji.edu.cn/info/1180/7540.htm)
+at the **Electrochemical Digital Power Research Lab**, with a focus on intelligent diagnostics for electrochemical energy systems.
 
 ---
 
@@ -30,7 +30,9 @@ Currently conducting research **AI4Science** under the mentorship of
 > **A Review of Portability of Fault Diagnosis Methods from PEM Fuel Cells to PEM Water Electrolyzers**
 > 🔗 [Springer Link](https://link.springer.com/article/10.1007/s42452-025-07318-1)
 
-**Project** > **Ion Detect** > 🔗 [Project Page](https://kudouzala.github.io/ion_detect_page/)  
+**Project** 
+>**Ion Detect**
+> 🔗 [Project Page](https://kudouzala.github.io/ion_detect_page/)  
 
 ---
 
