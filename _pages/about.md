@@ -14,7 +14,10 @@ A passionate researcher dedicated to rescuing the **PEM water electrolysis syste
 
 Academically born and raised at **Tongji University**, where I earned both my **Bachelor's** and **Master's** degrees in the **School of Automotive Studies**.
 
-Currently conducting research **AI4Science** under the mentorship of **Prof. Xuezhe Wei**, at the **Electrochemical Digital Power Research Lab**, with a focus on intelligent diagnostics for electrochemical energy systems.
+Currently conducting research **AI4Science** under the mentorship of 
+**Prof. Xuezhe Wei** ： https://auto.tongji.edu.cn/info/1177/6441.htm
+**Prof. Jiangong Zhu** ：https://auto.tongji.edu.cn/info/1180/7540.htm
+, at the **Electrochemical Digital Power Research Lab**, with a focus on intelligent diagnostics for electrochemical energy systems.
 
 ---
 
