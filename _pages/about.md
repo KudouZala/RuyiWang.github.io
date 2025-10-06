@@ -29,10 +29,11 @@ at the **Electrochemical Digital Power Research Lab**, with a focus on intellige
 **Publication**  
 > **A Review of Portability of Fault Diagnosis Methods from PEM Fuel Cells to PEM Water Electrolyzers**
 > 🔗 [Springer Link](https://link.springer.com/article/10.1007/s42452-025-07318-1)
+<img src="/images/review_cover.png" alt="Editing a Markdown file for a talk" style="width:300px; margin: auto; display: block;" />
 
-<img src="/images/review_cover.png" alt="Editing a Markdown file for a talk" width="300" />
-<img src="/images/review_preview.png" alt="Editing a Markdown file for a talk" width="300" />
-> 
+
+
+
 **Project** 
 >**Ion Detect**
 > 🔗 [Project Page](https://kudouzala.github.io/ion_detect_page/)  
